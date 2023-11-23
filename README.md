@@ -1,7 +1,6 @@
 # PART 2 - Sentuh Digital Teknologi Test
 
-![1](https://drive.google.com/file/d/1OQgZTGlT9l89UxMUXbr0tL-4m4FRA_TR/view?usp=sharing)
-![2](https://drive.google.com/file/d/1Y7kEM16Mo2spa5EHdPMmSKBLeQYQ4ffY/view?usp=sharing)
+<img src='https://github.com/ck-source92/sentuh-digital-teknologi-test/assets/56222477/7d4646d4-ef61-4263-8454-92ee6985fa75' width='250'>
 
 ### Soal
 Buat aplikasi android dengan arsitektur MVVM untuk menampilkan list dari API menggunakan RecyclerView. Sediakan search box dan tombol. 
